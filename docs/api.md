@@ -1,4 +1,4 @@
-# Clinic API Documentation (Swagger Style)
+# Clinic API Documentation
 
 ## Authentication
 
